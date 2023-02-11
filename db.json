@@ -1,4 +1,4 @@
-{
+
   "users": [
     { "id": 1, "name": "Fabio", "surname": "Rossi", "email": "fabiorossi@outlook.com"},
     { "id": 2, "name": "Fabio", "surname": "Rossi", "email": "fabiorossi@outlook.com"},
@@ -11,4 +11,4 @@
     { "id": 9, "name": "Fabio", "surname": "Rossi", "email": "fabiorossi@outlook.com"},
     { "id": 10, "name": "Fabio", "surname": "Rossi", "email": "fabiorossi@outlook.com"}
   ],
-}
+
